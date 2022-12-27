@@ -9,7 +9,7 @@
     <version>0.1-SNAPSHOT</version>
 
     <properties>
-        <hazelcast.jet.version>3.2</hazelcast.jet.version>
+        <hazelcast.jet.version>4.5.4</hazelcast.jet.version>
         <kafka.connect.version>2.3.0</kafka.connect.version>
         <camel.version>3.0.0</camel.version>
         <kafka.camel.version>595a3b6d9438a1d44bb086dcacaf4437248cdeed</kafka.camel.version>
